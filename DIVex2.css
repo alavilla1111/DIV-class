@@ -1,0 +1,58 @@
+/* Styles for header */
+header { 
+	background-color: #f0f0f0; 
+	padding: 20px; 
+	text-align: center; 
+} 
+
+.header-title {
+	color: #333; 
+	font-size: 24px; 
+}
+
+header img { 
+	width: 150px; 
+	height: auto; 
+	border-radius: 50%; 
+} 
+
+/* Styles for main content */ 
+.main-content { 
+	background-color: #e0e0e0; 
+	padding: 20px; 
+} 
+
+.main-content h2 { 
+	color: #333; 
+	text-align: center; 
+}
+
+.main-content h3{ 
+	color: #333; 
+	text-align: center; 
+}
+
+.main-content p { 
+	font-size: 16px; 
+	line-height: 1.5; 
+	text-align: center; 
+}
+
+.main-content ul { 
+	list-style-type: none; 
+	padding: 0;
+	text-align: center; 
+} 
+
+.main-content li { 
+	margin-bottom: 10px;
+	text-align: center; 
+} 
+
+/* Styles for footer */ 
+footer { 
+	background-color: #333; 
+	color: #fff; 
+	text-align: center; 
+	padding: 10px; 
+}
